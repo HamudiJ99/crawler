@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns="http://example.org/ftf-context#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="N20fd87fe33ed4029b45d991782eb6368">
+    <rdf:type rdf:resource="http://example.org/ftf-context#FTF"/>
+    <acceleration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</acceleration>
+    <aisleWidthMin rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</aisleWidthMin>
+    <angularAccuracy rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</angularAccuracy>
+    <application>test</application>
+    <availability rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</availability>
+    <batteryType>AAA</batteryType>
+    <certifications>BBB</certifications>
+    <certifications>BB</certifications>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N57076bfa06f24b08a9dede621c120534">
+    <rdf:type rdf:resource="http://example.org/ftf-context#FTF"/>
+    <acceleration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</acceleration>
+  </rdf:Description>
+</rdf:RDF>
